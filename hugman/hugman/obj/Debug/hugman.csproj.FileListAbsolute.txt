@@ -1,0 +1,60 @@
+C:\Users\rusla\source\repos\hugman\hugman\obj\Debug\hugman.csproj.AssemblyReference.cache
+C:\Users\rusla\source\repos\hugman\hugman\obj\Debug\MainWindow.g.cs
+C:\Users\rusla\source\repos\hugman\hugman\obj\Debug\App.g.cs
+C:\Users\rusla\source\repos\hugman\hugman\obj\Debug\hugman_MarkupCompile.cache
+C:\Users\rusla\source\repos\hugman\hugman\obj\Debug\hugman_MarkupCompile.lref
+C:\Users\rusla\source\repos\hugman\hugman\bin\Debug\hugman.exe.config
+C:\Users\rusla\source\repos\hugman\hugman\bin\Debug\hugman.exe
+C:\Users\rusla\source\repos\hugman\hugman\bin\Debug\hugman.pdb
+C:\Users\rusla\source\repos\hugman\hugman\obj\Debug\MainWindow.baml
+C:\Users\rusla\source\repos\hugman\hugman\obj\Debug\hugman.g.resources
+C:\Users\rusla\source\repos\hugman\hugman\obj\Debug\hugman.Properties.Resources.resources
+C:\Users\rusla\source\repos\hugman\hugman\obj\Debug\hugman.csproj.GenerateResource.cache
+C:\Users\rusla\source\repos\hugman\hugman\obj\Debug\hugman.csproj.CoreCompileInputs.cache
+C:\Users\rusla\source\repos\hugman\hugman\obj\Debug\hugman.exe
+C:\Users\rusla\source\repos\hugman\hugman\obj\Debug\hugman.pdb
+F:\проеты УП\hugman\hugman\bin\Debug\hugman.exe.config
+F:\проеты УП\hugman\hugman\bin\Debug\hugman.exe
+F:\проеты УП\hugman\hugman\bin\Debug\hugman.pdb
+F:\проеты УП\hugman\hugman\obj\Debug\hugman.csproj.AssemblyReference.cache
+F:\проеты УП\hugman\hugman\obj\Debug\MainWindow.g.cs
+F:\проеты УП\hugman\hugman\obj\Debug\App.g.cs
+F:\проеты УП\hugman\hugman\obj\Debug\hugman_MarkupCompile.cache
+F:\проеты УП\hugman\hugman\obj\Debug\hugman_MarkupCompile.lref
+F:\проеты УП\hugman\hugman\obj\Debug\MainWindow.baml
+F:\проеты УП\hugman\hugman\obj\Debug\hugman.g.resources
+F:\проеты УП\hugman\hugman\obj\Debug\hugman.Properties.Resources.resources
+F:\проеты УП\hugman\hugman\obj\Debug\hugman.csproj.GenerateResource.cache
+F:\проеты УП\hugman\hugman\obj\Debug\hugman.csproj.CoreCompileInputs.cache
+F:\проеты УП\hugman\hugman\obj\Debug\hugman.exe
+F:\проеты УП\hugman\hugman\obj\Debug\hugman.pdb
+D:\проеты УП\hugman\hugman\bin\Debug\hugman.exe.config
+D:\проеты УП\hugman\hugman\bin\Debug\hugman.exe
+D:\проеты УП\hugman\hugman\bin\Debug\hugman.pdb
+D:\проеты УП\hugman\hugman\obj\Debug\hugman.csproj.AssemblyReference.cache
+D:\проеты УП\hugman\hugman\obj\Debug\MainWindow.g.cs
+D:\проеты УП\hugman\hugman\obj\Debug\App.g.cs
+D:\проеты УП\hugman\hugman\obj\Debug\hugman_MarkupCompile.cache
+D:\проеты УП\hugman\hugman\obj\Debug\hugman_MarkupCompile.lref
+D:\проеты УП\hugman\hugman\obj\Debug\MainWindow.baml
+D:\проеты УП\hugman\hugman\obj\Debug\hugman.g.resources
+D:\проеты УП\hugman\hugman\obj\Debug\hugman.Properties.Resources.resources
+D:\проеты УП\hugman\hugman\obj\Debug\hugman.csproj.GenerateResource.cache
+D:\проеты УП\hugman\hugman\obj\Debug\hugman.csproj.CoreCompileInputs.cache
+D:\проеты УП\hugman\hugman\obj\Debug\hugman.exe
+D:\проеты УП\hugman\hugman\obj\Debug\hugman.pdb
+G:\2 курс\проеты УП\hugman\hugman\bin\Debug\hugman.exe.config
+G:\2 курс\проеты УП\hugman\hugman\bin\Debug\hugman.exe
+G:\2 курс\проеты УП\hugman\hugman\bin\Debug\hugman.pdb
+G:\2 курс\проеты УП\hugman\hugman\obj\Debug\hugman.csproj.AssemblyReference.cache
+G:\2 курс\проеты УП\hugman\hugman\obj\Debug\MainWindow.g.cs
+G:\2 курс\проеты УП\hugman\hugman\obj\Debug\App.g.cs
+G:\2 курс\проеты УП\hugman\hugman\obj\Debug\hugman_MarkupCompile.cache
+G:\2 курс\проеты УП\hugman\hugman\obj\Debug\hugman_MarkupCompile.lref
+G:\2 курс\проеты УП\hugman\hugman\obj\Debug\MainWindow.baml
+G:\2 курс\проеты УП\hugman\hugman\obj\Debug\hugman.g.resources
+G:\2 курс\проеты УП\hugman\hugman\obj\Debug\hugman.Properties.Resources.resources
+G:\2 курс\проеты УП\hugman\hugman\obj\Debug\hugman.csproj.GenerateResource.cache
+G:\2 курс\проеты УП\hugman\hugman\obj\Debug\hugman.csproj.CoreCompileInputs.cache
+G:\2 курс\проеты УП\hugman\hugman\obj\Debug\hugman.exe
+G:\2 курс\проеты УП\hugman\hugman\obj\Debug\hugman.pdb
